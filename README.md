@@ -6,5 +6,5 @@
   - 函数语句code_function，验证了函数的调用以及内部作用域和全局作用域的区别
   - 集成的一个应用实例code_application。<br>
 其中的”//”代表注释。其中的代码可以任意更改。<br>
-在Java代码中的Test类中的filePath可以更改为不同的文件名，方便查看使用。
+在src下的包muti下的Test类中的filePath可以更改为不同的文件名，方便查看使用。
 
