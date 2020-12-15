@@ -1,0 +1,18 @@
+//测试类型匹配
+var x1 = "12";
+var x2 = "23";
+var x3 = x1+x2;
+var num1 = 123;
+var num2 = 12;
+var num3 = num1+num2;
+x1 = "qwe";
+//num = "qwe";
+print(x3);
+print(num3);
+//num3 = 3;
+//print(num3);
+//测试获取列表长度
+var ls = (1,2,(2,2),2,3,(2,3),"qwe");
+//var ls = (1,2,4,(2,3),(2,3),"qwe");
+var a = length(ls);
+print(a);
