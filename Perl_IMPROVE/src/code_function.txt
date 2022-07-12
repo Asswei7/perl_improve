@@ -1,8 +1,0 @@
-function f(int);
-var res = f(12);
-sub f{
-		var temp = PARAM;
-		print(temp);
-		return temp;
-}
-print(res);
